@@ -6,7 +6,7 @@
 
 &nbsp; Email: zhengzhaohui@whu.edu.cn;    zhengzhaohui@sina.cn  
 
-&nbsp; [GitHub] [中文主页]  
+&nbsp; [GitHub](https://github.com/DoctorZheng) [中文主页]  
 
 *****
 You can use the [editor on GitHub](https://github.com/DoctorZheng/DoctorZheng.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
