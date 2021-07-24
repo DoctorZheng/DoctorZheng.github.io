@@ -1,5 +1,4 @@
 <a href="url"><img src="/file/1.jpg" align="left" height="120" ></a>  
-
 # Zhaohui Zheng (Ph.D)
 
   Wuhan Institute of Technology
