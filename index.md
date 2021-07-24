@@ -1,11 +1,9 @@
-<a href="url"><img src="/file/1.jpg" align="left" height="120" ></a>  
 # Zhaohui Zheng (Ph.D)
+<a href="url"><img src="/file/1.jpg" align="left" height="120" ></a>  
 
-  Wuhan Institute of Technology
-  
-  Email: zhengzhaohui@whu.edu.cn;    zhengzhaohui@sina.cn
-  
-  [GitHub] [中文主页]
+Wuhan Institute of Technology  
+Email: zhengzhaohui@whu.edu.cn;    zhengzhaohui@sina.cn  
+[GitHub] [中文主页]
 
 *****
 You can use the [editor on GitHub](https://github.com/DoctorZheng/DoctorZheng.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
