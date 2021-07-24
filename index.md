@@ -1,6 +1,7 @@
 # Zhaohui Zheng 
 ***
-![头像-w70](/file/1.jpg)
+<a href="url"><img src="/file/1.jpg" align="left" height="48" width="48" ></a>
+
 You can use the [editor on GitHub](https://github.com/DoctorZheng/DoctorZheng.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
