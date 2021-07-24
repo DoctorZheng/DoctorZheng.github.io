@@ -10,7 +10,8 @@
 
 *****
 ## Research Interest  
-Computer Vision and Pattern Recognition including: Target Detection; Feature Matching; Image Anti-counterfeiting
+### Computer Vision and Pattern Recognition: 
+Target Detection; Feature Matching; Image Anti-counterfeiting
 
 ## Education 
 * 2016.9-2020.6            Ph.D in Electronic Information School, Wuhan University.  
@@ -23,6 +24,10 @@ Computer Vision and Pattern Recognition including: Target Detection; Feature Mat
 * 2018.01-2021.12     Joint Fund of the Ministry of Education for Equipment Pre-research of China(可见光融合图像超分辨率对地目标探测技术) (CO-PI)  
 
 ## Publications
+1. **Zheng, Zhaohui**; Zheng, Hong; Ju, Jianping; et al. A system for identifying an anti-counterfeiting pattern based on the statistical difference in key image regions, Expert Systems With Applications, 2019, 11(12): 1418. (SCI Q1 Top, IF=5.196)
+2. **Zheng, Zhaohui**; Zheng, Hong; Ma, Yong; Fan, Fan*; Ju, Jianping; Xu, Bichao; Lin, Mingyu; Cheng, Shuilin; Feedback Unilateral Grid-Based Clustering Feature Matching for Remote Sensing Image Registration, Remote Sensing, 2019, 11(12): 1418. (SCI Q2, IF=4.196)
+3. **Zhaohui Zheng**; Yong Ma; Hong Zheng; Jianping Ju; Mingyu Lin; UGC: Real-time, Ultra-robust Feature Correspondence via Unilateral Grid-based Clustering, IEEE Access, 2018, 6(1): 1-1. (SCI Q2 Top, IF=4.196)
+4. **Zhaohui Zheng**; Yong Ma; Hong Zheng; Yu Gu; Mingyu Lin; Industrial part localization and grasping using a robotic arm guided by 2D monocular vision, Industrial Robot, 2018, 45(11): IR-06.(SCI Q4, IF=1.196)
 
 ## Services
 
