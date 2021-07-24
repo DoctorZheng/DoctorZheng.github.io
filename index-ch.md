@@ -9,25 +9,25 @@
 &nbsp; [GitHub](https://github.com/DoctorZheng) &nbsp; [英文主页](index.md)  
 
 *****
-## Research Interest  
-Computer Vision and Pattern Recognition:  
-Target Detection; Feature Matching; Image Anti-counterfeiting
+## 研究方向  
+机器视觉和模式识别:  
+目标检测; 特征匹配; 防伪检测
 
-## Education 
-* 2016.9-2020.6  &nbsp; &nbsp;   Ph.D in Electronic Information School, Wuhan University.  
+## 教育背景 
+* 2016.9-2020.6  &nbsp; &nbsp;   武汉大学，电子信息学院，博士研究生.  
    
-* 2009.9-2011.12  &nbsp; &nbsp;   M.E. in School of Science, Wuhan University of Technology.  
+* 2009.9-2011.12  &nbsp; &nbsp;   武汉理工大学，理学院，硕士研究生.  
 
-## Research Project
-* 2019.08-2021.08  &nbsp; &nbsp;  The Science and Technology Research Project of Hubei (China) Education Department (面向复杂场景下机器人视觉配准技术研究) (PI)  
+## 科研项目
+* 2019.08-2021.08  &nbsp; &nbsp;  湖北省教育厅科研计划项目 (面向复杂场景下机器人视觉配准技术研究) (主持)  
   
-* 2018.10-2020.10  &nbsp; &nbsp;  The Science and Technology Entrepreneurship Projects for College Students of Hubei (China) Science and Technology Department (机器人智能视觉引导系统) (PI)   
+* 2018.10-2020.10  &nbsp; &nbsp;  湖北省科技厅大学生科技创业计划项目 (机器人智能视觉引导系统) (主持)   
   
-* 2018.01-2021.12  &nbsp; &nbsp;  National Natural Science Foundation of China (基于概率推理的图像特征匹配统一理论模型及其应用研究) (CO-PI)  
+* 2018.01-2021.12  &nbsp; &nbsp;  国家自然科学基金面上项目 (基于概率推理的图像特征匹配统一理论模型及其应用研究) (参与)  
   
-* 2018.10-2021.12  &nbsp; &nbsp;  Joint Fund of the Ministry of Education for Equipment Pre-research of China (可见光融合图像超分辨率对地目标探测技术) (CO-PI)  
+* 2018.10-2021.12  &nbsp; &nbsp;  装备预研教育部联合基金 (可见光融合图像超分辨率对地目标探测技术) (参与)  
 
-## Publications
+## 学术论文
 1. **Zheng, Zhaohui**; Zheng, Hong; Ju, Jianping; et al. A system for identifying an anti-counterfeiting pattern based on the statistical difference in key image regions, Expert Systems With Applications, 2019, 11(12): 1418. (**SCI Q1 Top**) [[PDF](/file/A system for identifying an anti-counterfeiting pattern based on the statistical difference in key image regions.pdf)] [[Code](https://github.com/DoctorZheng/The-anti-counterfeiting-algorithm)]  
   
 3. **Zheng, Zhaohui**; Zheng, Hong; Ma, Yong; Fan, Fan*; Ju, Jianping; Xu, Bichao; Lin, Mingyu; Cheng, Shuilin. Feedback Unilateral Grid-Based Clustering Feature Matching for Remote Sensing Image Registration, Remote Sensing, 2019, 11(12): 1418. (**SCI Q2**) [[PDF](/file/Feedback Unilateral Grid-based Clustering Feature Matching for Remote Sensing Image Registration.pdf)] [[Code](https://github.com/DoctorZheng/F-UGC)]  
@@ -44,7 +44,7 @@ Target Detection; Feature Matching; Image Anti-counterfeiting
   
 9. Xu, Xiaohang; Zheng, Hong; Guo, Zhongyuan; Wu, Xiongbin; **Zheng, Zhaohui**. SDD-CNN: Small Data-Driven Convolution Neural Networks for Subtle Roller Defect Inspection , Applied Sciences-Basel, 2019, 9(7): 1364. (**SCI Q3**) [[PDF](/file/SDD-CNN Small Data-Driven Convolution Neural Networks for Subtle Roller Defect Inspection.pdf)]  
 
-## Services
-Journal Reviewer: Expert Systems With Applications, IEEE Access, et al.
+## 学术服务
+学术期刊会议审稿人: Expert Systems With Applications, IEEE Access, 等等.
 
 
