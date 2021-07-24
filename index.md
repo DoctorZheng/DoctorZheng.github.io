@@ -14,7 +14,7 @@ Computer Vision and Pattern Recognition:
 Target Detection; Feature Matching; Image Anti-counterfeiting
 
 ## Education 
-* 2016.9-2020.6  &nbsp; &nbsp;   Ph.D in Electronic Information School, Wuhan University.  
+* 2016.9-2020.6  &nbsp; &nbsp; &nbsp;   Ph.D in Electronic Information School, Wuhan University.  
    
 * 2009.9-2011.12  &nbsp; &nbsp;   M.E. in School of Science, Wuhan University of Technology.  
 
