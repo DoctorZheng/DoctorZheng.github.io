@@ -9,6 +9,14 @@
 &nbsp; [GitHub](https://github.com/DoctorZheng) [中文主页]  
 
 *****
+## Research Interest  
+Computer Vision and Pattern Recognition including: Target Detection; Feature Matching; Image Anti-counterfeiting
+
+## Education 
+2016.9-2020.6            Ph.D in Electronic Information School, Wuhan University. 
+2009.9-2011.12           M.E. in School of Science, Wuhan University of Technology.  
+2005.9-2009.6            B.E. in School of Engineering, Huazhong Agricultrual University .
+
 You can use the [editor on GitHub](https://github.com/DoctorZheng/DoctorZheng.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
