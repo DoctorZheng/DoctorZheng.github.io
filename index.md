@@ -1,4 +1,4 @@
-# Zhaohui Zheng                                         ![avatar](/file/1.jpg#pic_center=200x40)
+# Zhaohui Zheng                                         ![avatar](/file/1.jpg#pic_center=100x)
 
 You can use the [editor on GitHub](https://github.com/DoctorZheng/DoctorZheng.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
