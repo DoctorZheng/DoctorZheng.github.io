@@ -6,7 +6,7 @@
 
 &nbsp; Email: zhengzhaohui@whu.edu.cn;    zhengzhaohui@sina.cn  
 
-&nbsp; [GitHub](https://github.com/DoctorZheng) &nbsp; [中文主页]  
+&nbsp; [GitHub](https://github.com/DoctorZheng) &nbsp; [中文主页](index-ch.md)  
 
 *****
 ## Research Interest  
