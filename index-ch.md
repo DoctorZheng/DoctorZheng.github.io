@@ -19,6 +19,8 @@
 * 2009.9-2011.12  &nbsp; &nbsp;   武汉理工大学，理学院，硕士研究生.  
 
 ## 科研项目
+* 2021.09-2023.09  &nbsp; &nbsp;  武汉工程大学科学基金项目 (基于数字图像处理的防伪图案真伪鉴别研究) (主持)  
+
 * 2019.08-2021.08  &nbsp; &nbsp;  湖北省教育厅科研计划项目 (面向复杂场景下机器人视觉配准技术研究) (主持)  
   
 * 2018.10-2020.10  &nbsp; &nbsp;  湖北省科技厅大学生科技创业计划项目 (机器人智能视觉引导系统) (主持)   
@@ -28,11 +30,13 @@
 * 2018.10-2021.12  &nbsp; &nbsp;  装备预研教育部联合基金 (可见光融合图像超分辨率对地目标探测技术) (参与)  
 
 ## 学术论文
-1. **Zheng, Zhaohui**; Zheng, Hong; Ju, Jianping; et al. A system for identifying an anti-counterfeiting pattern based on the statistical difference in key image regions, Expert Systems With Applications, 2021: 115410. (**SCI 1区 Top**) [[PDF](/file/A system for identifying an anti-counterfeiting pattern based on the statistical difference in key image regions.pdf)] [[Code](https://github.com/DoctorZheng/The-anti-counterfeiting-algorithm)]  
+1. **Zheng, Zhaohui**; Xu, Bichao; Ju, Jianping; et al. Circumferential Local Ternary Pattern: New and Efficient Feature Descriptors for Anti-Counterfeiting Pattern Identification, IEEE Transactions on Information Forensics and Security, 2022, 17: 970-981. (**SCI 1区 Top**) [[PDF](/file/Circumferential Local Ternary Pattern New and Efficient Feature Descriptors for Anti-Counterfeiting Pattern Identification.pdf))] [[Code](https://github.com/DoctorZheng/CLTP)]  
+
+1. **Zheng, Zhaohui**; Zheng, Hong; Ju, Jianping; et al. A system for identifying an anti-counterfeiting pattern based on the statistical difference in key image regions, Expert Systems With Applications, 2021, 183: 115410. (**SCI 1区 Top**) [[PDF](/file/A system for identifying an anti-counterfeiting pattern based on the statistical difference in key image regions.pdf)] [[Code](https://github.com/DoctorZheng/The-anti-counterfeiting-algorithm)]  
   
 3. **Zheng, Zhaohui**; Zheng, Hong; Ma, Yong; Fan, Fan*; Ju, Jianping; Xu, Bichao; Lin, Mingyu; Cheng, Shuilin. Feedback Unilateral Grid-Based Clustering Feature Matching for Remote Sensing Image Registration, Remote Sensing, 2019, 11(12): 1418. (**SCI 2区**) [[PDF](/file/Feedback Unilateral Grid-based Clustering Feature Matching for Remote Sensing Image Registration.pdf)] [[Code](https://github.com/DoctorZheng/F-UGC)]  
   
-4. **Zhaohui Zheng**; Yong Ma; Hong Zheng; Jianping Ju; Mingyu Lin. UGC: Real-time, Ultra-robust Feature Correspondence via Unilateral Grid-based Clustering, IEEE Access, 2018, 6(1): 1-1. (**SCI 2区 Top**) [[PDF](/file/UGC：Real-time, Ultra-robust Feature Correspondence via Unilateral Grid-based Clustering.pdf)]  
+4. **Zhaohui Zheng**; Yong Ma; Hong Zheng; Jianping Ju; Mingyu Lin. UGC: Real-time, Ultra-robust Feature Correspondence via Unilateral Grid-based Clustering, IEEE Access, 2018, 6(1): 1-1. (**SCI 2区 **) [[PDF](/file/UGC：Real-time, Ultra-robust Feature Correspondence via Unilateral Grid-based Clustering.pdf)]  
   
 5. **Zhaohui Zheng**; Yong Ma; Hong Zheng; Yu Gu; Mingyu Lin. Industrial part localization and grasping using a robotic arm guided by 2D monocular vision, Industrial Robot, 2018, 45(11): IR-06. (**SCI 4区**) [[PDF](/file/Industrial part localization and grasping using a robotic arm guided by 2D monocular vision.pdf)]  
   
