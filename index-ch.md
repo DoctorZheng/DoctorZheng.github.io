@@ -36,7 +36,7 @@
   
 3. **Zheng, Zhaohui**; Zheng, Hong; Ma, Yong; Fan, Fan*; Ju, Jianping; Xu, Bichao; Lin, Mingyu; Cheng, Shuilin. Feedback Unilateral Grid-Based Clustering Feature Matching for Remote Sensing Image Registration, Remote Sensing, 2019, 11(12): 1418. (**SCI 2区**) [[PDF](/file/Feedback Unilateral Grid-based Clustering Feature Matching for Remote Sensing Image Registration.pdf)] [[Code](https://github.com/DoctorZheng/F-UGC)]  
   
-4. **Zhaohui Zheng**; Yong Ma; Hong Zheng; Jianping Ju; Mingyu Lin. UGC: Real-time, Ultra-robust Feature Correspondence via Unilateral Grid-based Clustering, IEEE Access, 2018, 6(1): 1-1. (**SCI 2区 **) [[PDF](/file/UGC：Real-time, Ultra-robust Feature Correspondence via Unilateral Grid-based Clustering.pdf)]  
+4. **Zhaohui Zheng**; Yong Ma; Hong Zheng; Jianping Ju; Mingyu Lin. UGC: Real-time, Ultra-robust Feature Correspondence via Unilateral Grid-based Clustering, IEEE Access, 2018, 6(1): 1-1. (**SCI 2区**) [[PDF](/file/UGC：Real-time, Ultra-robust Feature Correspondence via Unilateral Grid-based Clustering.pdf)]  
   
 5. **Zhaohui Zheng**; Yong Ma; Hong Zheng; Yu Gu; Mingyu Lin. Industrial part localization and grasping using a robotic arm guided by 2D monocular vision, Industrial Robot, 2018, 45(11): IR-06. (**SCI 4区**) [[PDF](/file/Industrial part localization and grasping using a robotic arm guided by 2D monocular vision.pdf)]  
   
