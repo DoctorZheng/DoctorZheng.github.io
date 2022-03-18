@@ -30,7 +30,7 @@ Target Detection, Feature Matching, Image Anti-counterfeiting
 * 2018.10-2021.12  &nbsp; &nbsp;  Joint Fund of the Ministry of Education for Equipment Pre-research of China (可见光融合图像超分辨率对地目标探测技术) (CO-PI)  
 
 ## Publications
-1. **Zheng, Zhaohui**; Xu, Bichao; Ju, Jianping; et al. Circumferential Local Ternary Pattern: New and Efficient Feature Descriptors for Anti-Counterfeiting Pattern Identification, IEEE Transactions on Information Forensics and Security, 2022, 17: 970-981. (**SCI Q1**) [[PDF](/file/CLTP/Circumferential Local Ternary Pattern New and Efficient Feature Descriptors for Anti-Counterfeiting Pattern Identification.pdf)] [[Code](https://github.com/DoctorZheng/CLTP)]  
+1. **Zheng, Zhaohui**; Xu, Bichao; Ju, Jianping; et al. Circumferential Local Ternary Pattern: New and Efficient Feature Descriptors for Anti-Counterfeiting Pattern Identification, IEEE Transactions on Information Forensics and Security, 2022, 17: 970-981. (**SCI Q1**) [[PDF](/file/Circumferential Local Ternary Pattern New and Efficient Feature Descriptors for Anti-Counterfeiting Pattern Identification.pdf)] [[Code](https://github.com/DoctorZheng/CLTP)]  
 
 2. **Zheng, Zhaohui**; Zheng, Hong; Ju, Jianping; et al. A system for identifying an anti-counterfeiting pattern based on the statistical difference in key image regions, Expert Systems With Applications, 2021, 183: 115410. (**SCI Q1**) [[PDF](/file/A system for identifying an anti-counterfeiting pattern based on the statistical difference in key image regions.pdf)] [[Code](https://github.com/DoctorZheng/The-anti-counterfeiting-algorithm)]  
   
