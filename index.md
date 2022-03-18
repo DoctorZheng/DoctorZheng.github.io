@@ -19,6 +19,8 @@ Target Detection, Feature Matching, Image Anti-counterfeiting
 * 2009.9-2011.12  &nbsp; &nbsp;   M.E. in School of Science, Wuhan University of Technology.  
 
 ## Research Project
+* 2021.09-2023.09  &nbsp; &nbsp;  The Science Research Project of Wuhan Institute of Technology (基于数字图像处理的防伪图案真伪鉴别研究) (PI) 
+
 * 2019.08-2021.08  &nbsp; &nbsp;  The Science and Technology Research Project of Hubei (China) Education Department (面向复杂场景下机器人视觉配准技术研究) (PI)  
   
 * 2018.10-2020.10  &nbsp; &nbsp;  The Science and Technology Entrepreneurship Projects for College Students of Hubei (China) Science and Technology Department (机器人智能视觉引导系统) (PI)   
@@ -28,7 +30,9 @@ Target Detection, Feature Matching, Image Anti-counterfeiting
 * 2018.10-2021.12  &nbsp; &nbsp;  Joint Fund of the Ministry of Education for Equipment Pre-research of China (可见光融合图像超分辨率对地目标探测技术) (CO-PI)  
 
 ## Publications
-1. **Zheng, Zhaohui**; Zheng, Hong; Ju, Jianping; et al. A system for identifying an anti-counterfeiting pattern based on the statistical difference in key image regions, Expert Systems With Applications, 2021: 115410. (**SCI Q1**) [[PDF](/file/A system for identifying an anti-counterfeiting pattern based on the statistical difference in key image regions.pdf)] [[Code](https://github.com/DoctorZheng/The-anti-counterfeiting-algorithm)]  
+1. **Zheng, Zhaohui**; Xu, Bichao; Ju, Jianping; et al. Circumferential Local Ternary Pattern: New and Efficient Feature Descriptors for Anti-Counterfeiting Pattern Identification, IEEE Transactions on Information Forensics and Security, 2022, 17: 970-981. (**SCI Q1**) [[PDF](/file/CLTP/Circumferential Local Ternary Pattern New and Efficient Feature Descriptors for Anti-Counterfeiting Pattern Identification.pdf)] [[Code](https://github.com/DoctorZheng/CLTP)]  
+
+2. **Zheng, Zhaohui**; Zheng, Hong; Ju, Jianping; et al. A system for identifying an anti-counterfeiting pattern based on the statistical difference in key image regions, Expert Systems With Applications, 2021, 183: 115410. (**SCI Q1**) [[PDF](/file/A system for identifying an anti-counterfeiting pattern based on the statistical difference in key image regions.pdf)] [[Code](https://github.com/DoctorZheng/The-anti-counterfeiting-algorithm)]  
   
 3. **Zheng, Zhaohui**; Zheng, Hong; Ma, Yong; Fan, Fan*; Ju, Jianping; Xu, Bichao; Lin, Mingyu; Cheng, Shuilin. Feedback Unilateral Grid-Based Clustering Feature Matching for Remote Sensing Image Registration, Remote Sensing, 2019, 11(12): 1418. (**SCI Q1**) [[PDF](/file/Feedback Unilateral Grid-based Clustering Feature Matching for Remote Sensing Image Registration.pdf)] [[Code](https://github.com/DoctorZheng/F-UGC)]  
   
