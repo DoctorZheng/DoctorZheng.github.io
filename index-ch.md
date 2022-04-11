@@ -42,7 +42,7 @@
   
 6. Jianping Ju, Hong Zheng, Xiaohang Xu, Zhongyuan Guo, **Zhaohui Zheng**, Mingyu Lin. Classification of jujube defects in small data sets based on transfer learning, Neural Computing & Applications, 2021, 1(1): 1-14. (**SCI 2区**) [[PDF](/file/Classification of jujube defects in small data sets based on transfer learning.pdf)]  
   
-7. Zhongyuan Guo, Hong Zheng, Changhui You, Xiaohang Xu, Xiongbin Wu, **Zhaohui Zheng**, Jianping Ju. Digital forensics of scanned QR code images for printed source identification using bottleneck residual block. **Sensors**, 2020, 20:6305-6318. (**SCI 3区**) [[PDF](/file/Digital Forensics of Scanned QR Code Images for Printer Source Identificat on Using Bottleneck Residual Block.pdf)]  
+7. Zhongyuan Guo, Hong Zheng, Changhui You, Xiaohang Xu, Xiongbin Wu, **Zhaohui Zheng**, Jianping Ju. Digital forensics of scanned QR code images for printed source identification using bottleneck residual block. **Sensors**, 2020, 20:6305-6318. (**SCI 3区**) [[PDF](/file/Digital Forensics of Scanned QR Code Images for Printer Source Identificat on Using Bottleneck Residual Block.pdf)] 
   
 8. Zhongyuan Guo, Hong Zheng, Xiaohang Xu, Jianping Ju, **Zhaohui Zheng**, et al. Quality grading of jujubes using composite convolutional neural networks in combination with RGB color space segmentation and deep convolutional generative adversarial networks. **J Food Process Eng**, 2020, 44:13620. (**SCI 4区**) [[PDF](/file/Quality grading of jujubes using composite convolutional neural networks in combination with RGB color space segmentation and deep convolutional generative adversarial networks.pdf)]  
   
