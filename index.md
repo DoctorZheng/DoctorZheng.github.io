@@ -40,7 +40,7 @@ Target Detection, Feature Matching, Image Anti-counterfeiting
   
 1. **Zhaohui Zheng**, Yong Ma, Hong Zheng, et al. Industrial part localization and grasping using a robotic arm guided by 2D monocular vision, Industrial Robot, 2018, 45(11): IR-06. (**SCI Q4**) [[PDF](/file/Industrial part localization and grasping using a robotic arm guided by 2D monocular vision.pdf)]  
  
-1. Siyuan Cai, Wei Wei, Deng Chen, Jianping Ju, Yanduo Zhang, Wei Liu and **Zhaohui Zheng**. Security Risk Intelligent Assessment of Power Distribution Internet of Things via Entropy-Weight Method and Cloud Model, Sensors 2022, 22(13), 4663. (**SCI 2区**) [[PDF](/file/Security Risk Intelligent Assessment of Power Distribution Internet of Things via Entropy-Weight Method and Cloud Model.pdf)]
+1. Siyuan Cai, Wei Wei, Deng Chen, Jianping Ju, Yanduo Zhang, Wei Liu and **Zhaohui Zheng**. Security Risk Intelligent Assessment of Power Distribution Internet of Things via Entropy-Weight Method and Cloud Model, Sensors 2022, 22(13), 4663. (**SCI Q2**) [[PDF](/file/Security Risk Intelligent Assessment of Power Distribution Internet of Things via Entropy-Weight Method and Cloud Model.pdf)]
  
 1. Jianping Ju, Hong Zheng, Xiaohang Xu, Zhongyuan Guo, **Zhaohui Zheng**, Mingyu Lin. Classification of jujube defects in small data sets based on transfer learning, Neural Computing & Applications, 2021, 1(1): 1-14. (**SCI Q1**) [[PDF](/file/Classification of jujube defects in small data sets based on transfer learning.pdf)]  
   
