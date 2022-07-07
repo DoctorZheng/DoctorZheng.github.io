@@ -39,7 +39,9 @@ Target Detection, Feature Matching, Image Anti-counterfeiting
 4. **Zhaohui Zheng**, Yong Ma, Hong Zheng, et al. UGC: Real-time, Ultra-robust Feature Correspondence via Unilateral Grid-based Clustering, IEEE Access, 2018, 6(1): 1-1. (**SCI Q1**) [[PDF](/file/UGC：Real-time, Ultra-robust Feature Correspondence via Unilateral Grid-based Clustering.pdf)]
   
 5. **Zhaohui Zheng**, Yong Ma, Hong Zheng, et al. Industrial part localization and grasping using a robotic arm guided by 2D monocular vision, Industrial Robot, 2018, 45(11): IR-06. (**SCI Q4**) [[PDF](/file/Industrial part localization and grasping using a robotic arm guided by 2D monocular vision.pdf)]  
-  
+ 
+6. Siyuan Cai, Wei Wei, Deng Chen, Jianping Ju, Yanduo Zhang, Wei Liu and **Zhaohui Zheng**. Security Risk Intelligent Assessment of Power Distribution Internet of Things via Entropy-Weight Method and Cloud Model, Sensors 2022, 22(13), 4663. (**SCI 2区**) [[PDF](/file/Security Risk Intelligent Assessment of Power Distribution Internet of Things via Entropy-Weight Method and Cloud Model.pdf)]
+ 
 6. Jianping Ju, Hong Zheng, Xiaohang Xu, Zhongyuan Guo, **Zhaohui Zheng**, Mingyu Lin. Classification of jujube defects in small data sets based on transfer learning, Neural Computing & Applications, 2021, 1(1): 1-14. (**SCI Q1**) [[PDF](/file/Classification of jujube defects in small data sets based on transfer learning.pdf)]  
   
 7. Zhongyuan Guo, Hong Zheng, Changhui You, Xiaohang Xu, Xiongbin Wu, **Zhaohui Zheng**, Jianping Ju. Digital forensics of scanned QR code images for printed source identification using bottleneck residual block. Sensors, 2020, 20:6305-6318. (**SCI Q2**) [[PDF](/file/Digital Forensics of Scanned QR Code Images for Printer Source Identificat on Using Bottleneck Residual Block.pdf)]  
