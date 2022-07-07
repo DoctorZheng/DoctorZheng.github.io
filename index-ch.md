@@ -39,14 +39,16 @@
 4. **Zhaohui Zheng**, Yong Ma, Hong Zheng, et al. UGC: Real-time, Ultra-robust Feature Correspondence via Unilateral Grid-based Clustering, IEEE Access, 2018, 6(1): 1-1. (**SCI 2区**) [[PDF](/file/UGC：Real-time, Ultra-robust Feature Correspondence via Unilateral Grid-based Clustering.pdf)]  
   
 5. **Zhaohui Zheng**, Yong Ma, Hong Zheng, et al. Industrial part localization and grasping using a robotic arm guided by 2D monocular vision, Industrial Robot, 2018, 45(11): IR-06. (**SCI 4区**) [[PDF](/file/Industrial part localization and grasping using a robotic arm guided by 2D monocular vision.pdf)]  
+
+6. Siyuan Cai, Wei Wei, Deng Chen, Jianping Ju, Yanduo Zhang, Wei Liu and **Zhaohui Zheng**. Security Risk Intelligent Assessment of Power Distribution Internet of Things via Entropy-Weight Method and Cloud Model, Sensors 2022, 22(13), 4663. (**SCI 2区**) [[PDF](/file/Security Risk Intelligent Assessment of Power Distribution Internet of Things via Entropy-Weight Method and Cloud Model.pdf)]
+
+7. Jianping Ju, Hong Zheng, Xiaohang Xu, Zhongyuan Guo, **Zhaohui Zheng**, Mingyu Lin. Classification of jujube defects in small data sets based on transfer learning, Neural Computing & Applications, 2021, 1(1): 1-14. (**SCI 2区**) [[PDF](/file/Classification of jujube defects in small data sets based on transfer learning.pdf)]  
   
-6. Jianping Ju, Hong Zheng, Xiaohang Xu, Zhongyuan Guo, **Zhaohui Zheng**, Mingyu Lin. Classification of jujube defects in small data sets based on transfer learning, Neural Computing & Applications, 2021, 1(1): 1-14. (**SCI 2区**) [[PDF](/file/Classification of jujube defects in small data sets based on transfer learning.pdf)]  
+8. Zhongyuan Guo, Hong Zheng, Changhui You, Xiaohang Xu, Xiongbin Wu, **Zhaohui Zheng**, Jianping Ju. Digital forensics of scanned QR code images for printed source identification using bottleneck residual block. **Sensors**, 2020, 20:6305-6318. (**SCI 3区**) [[PDF](/file/Digital Forensics of Scanned QR Code Images for Printer Source Identificat on Using Bottleneck Residual Block.pdf)] 
   
-7. Zhongyuan Guo, Hong Zheng, Changhui You, Xiaohang Xu, Xiongbin Wu, **Zhaohui Zheng**, Jianping Ju. Digital forensics of scanned QR code images for printed source identification using bottleneck residual block. **Sensors**, 2020, 20:6305-6318. (**SCI 3区**) [[PDF](/file/Digital Forensics of Scanned QR Code Images for Printer Source Identificat on Using Bottleneck Residual Block.pdf)] 
+9. Zhongyuan Guo, Hong Zheng, Xiaohang Xu, Jianping Ju, **Zhaohui Zheng**, et al. Quality grading of jujubes using composite convolutional neural networks in combination with RGB color space segmentation and deep convolutional generative adversarial networks. **J Food Process Eng**, 2020, 44:13620. (**SCI 4区**) [[PDF](/file/Quality grading of jujubes using composite convolutional neural networks in combination with RGB color space segmentation and deep convolutional generative adversarial networks.pdf)]  
   
-8. Zhongyuan Guo, Hong Zheng, Xiaohang Xu, Jianping Ju, **Zhaohui Zheng**, et al. Quality grading of jujubes using composite convolutional neural networks in combination with RGB color space segmentation and deep convolutional generative adversarial networks. **J Food Process Eng**, 2020, 44:13620. (**SCI 4区**) [[PDF](/file/Quality grading of jujubes using composite convolutional neural networks in combination with RGB color space segmentation and deep convolutional generative adversarial networks.pdf)]  
-  
-9. Xiaohang Xu, Hong Zheng, Zhongyuan Guo, Xiongbin Wu, **Zhaohui Zheng**. SDD-CNN: Small Data-Driven Convolution Neural Networks for Subtle Roller Defect Inspection , Applied Sciences-Basel, 2019, 9(7): 1364. (**SCI 3区**) [[PDF](/file/SDD-CNN Small Data-Driven Convolution Neural Networks for Subtle Roller Defect Inspection.pdf)]  
+10. Xiaohang Xu, Hong Zheng, Zhongyuan Guo, Xiongbin Wu, **Zhaohui Zheng**. SDD-CNN: Small Data-Driven Convolution Neural Networks for Subtle Roller Defect Inspection , Applied Sciences-Basel, 2019, 9(7): 1364. (**SCI 3区**) [[PDF](/file/SDD-CNN Small Data-Driven Convolution Neural Networks for Subtle Roller Defect Inspection.pdf)]  
 
 ## 学术服务
 学术期刊会议审稿人: Expert Systems With Applications, IEEE Access, 等等.
