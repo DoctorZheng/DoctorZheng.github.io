@@ -32,7 +32,7 @@
 ## 学术论文
 1. **Zhaohui Zheng**, Bichao Xu, Jianping Ju, et al. Circumferential Local Ternary Pattern: New and Efficient Feature Descriptors for Anti-Counterfeiting Pattern Identification, IEEE Transactions on Information Forensics and Security, 2022, 17: 970-981. (**SCI 1区 Top / CCF A**) [[PDF](/file/Circumferential Local Ternary Pattern New and Efficient Feature Descriptors for Anti-Counterfeiting Pattern Identification.pdf))] [[Code](https://github.com/DoctorZheng/CLTP)]  
 
-1. **Zhaohui Zheng**, Yunchen Luo, Saoyi Li, et al. Rapid Detection of Tools of Railway Works in the Full Time Domain, Sustainability, 2022, 14: 13662.(**SCI 1区 Top**)
+1. **Zhaohui Zheng**, Yunchen Luo, Saoyi Li, et al. Rapid Detection of Tools of Railway Works in the Full Time Domain, Sustainability, 2022, 14: 13662.(**SCI 3区**)[[PDF](/file/Rapid Detection of Tools of Railway Works in the Full Time Domain.pdf)]
 
 1. **Zhaohui Zheng**, Hong Zheng, Jianping Ju, et al. A system for identifying an anti-counterfeiting pattern based on the statistical difference in key image regions, Expert Systems With Applications, 2021, 183: 115410. (**SCI 1区 Top**) [[PDF](/file/A system for identifying an anti-counterfeiting pattern based on the statistical difference in key image regions.pdf)] [[Code](https://github.com/DoctorZheng/The-anti-counterfeiting-algorithm)]  
   
@@ -42,7 +42,7 @@
   
 1. **Zhaohui Zheng**, Yong Ma, Hong Zheng, et al. Industrial part localization and grasping using a robotic arm guided by 2D monocular vision, Industrial Robot, 2018, 45(11): IR-06. (**SCI 4区**) [[PDF](/file/Industrial part localization and grasping using a robotic arm guided by 2D monocular vision.pdf)]  
 
-1. Jing Chen, Mingxuan Zhang, Yan Yan, **Zhaohui Zheng***. RESEARCH ON MENTAL HEALTH ASSESSMENT OF COLLEGE STUDENTS UNDER BIG DATA, Psychiatria Danubina, 2022, 34(s4): 503-504.
+1. Jing Chen, Mingxuan Zhang, Yan Yan, **Zhaohui Zheng***. RESEARCH ON MENTAL HEALTH ASSESSMENT OF COLLEGE STUDENTS UNDER BIG DATA, Psychiatria Danubina, 2022, 34(s4): 503-504. (**SCI 4区\SSCI**) [[PDF](/file/RESEARCH ON MENTAL HEALTH ASSESSMENT OF COLLEGE STUDENTS UNDER BIG DATA.pdf)]
 
 1. Siyuan Cai, Wei Wei, Deng Chen, Jianping Ju, Yanduo Zhang, Wei Liu and **Zhaohui Zheng**. Security Risk Intelligent Assessment of Power Distribution Internet of Things via Entropy-Weight Method and Cloud Model, Sensors 2022, 22(13), 4663. (**SCI 2区**) [[PDF](/file/Security Risk Intelligent Assessment of Power Distribution Internet of Things via Entropy-Weight Method and Cloud Model.pdf)]
 
