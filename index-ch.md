@@ -14,9 +14,9 @@
 目标检测， 特征匹配， 防伪检测
 
 ## 教育背景 
-* 2016.9-2020.6  &nbsp; &nbsp; &nbsp;   武汉大学，电子信息学院，博士研究生.  
+* 2016.9-2020.6  &nbsp; &nbsp; &nbsp;   武汉大学，电子信息学院，博士.  
    
-* 2009.9-2011.12  &nbsp; &nbsp;   武汉理工大学，理学院，硕士研究生.  
+* 2009.9-2011.12  &nbsp; &nbsp;   武汉理工大学，理学院，硕士.  
 
 ## 科研项目
 * 2021.09-2023.09  &nbsp; &nbsp;  武汉工程大学科学基金项目 (基于数字图像处理的防伪图案真伪鉴别研究) (主持)  
@@ -32,7 +32,7 @@
 ## 学术论文
 1. **Zhaohui Zheng**, Bichao Xu, Jianping Ju, et al. Circumferential Local Ternary Pattern: New and Efficient Feature Descriptors for Anti-Counterfeiting Pattern Identification, IEEE Transactions on Information Forensics and Security, 2022, 17: 970-981. (**SCI 1区 Top / CCF A**) [[PDF](/file/Circumferential Local Ternary Pattern New and Efficient Feature Descriptors for Anti-Counterfeiting Pattern Identification.pdf))] [[Code](https://github.com/DoctorZheng/CLTP)]  
 
-1. **Zhaohui Zheng**, Yunchen Luo, Saoyi Li, et al. Rapid Detection of Tools of Railway Works in the Full Time Domain, Sustainability, 2022, 14: 13662.(**SCI 3区**)[[PDF](/file/Rapid Detection of Tools of Railway Works in the Full Time Domain.pdf)]
+1. **Zhaohui Zheng**, Yunchen Luo, Saoyi Li, et al. Rapid Detection of Tools of Railway Works in the Full Time Domain, Sustainability, 2022, 14: 13662. (**SCI 3区**) [[PDF](/file/Rapid Detection of Tools of Railway Works in the Full Time Domain.pdf)]
 
 1. **Zhaohui Zheng**, Hong Zheng, Jianping Ju, et al. A system for identifying an anti-counterfeiting pattern based on the statistical difference in key image regions, Expert Systems With Applications, 2021, 183: 115410. (**SCI 1区 Top**) [[PDF](/file/A system for identifying an anti-counterfeiting pattern based on the statistical difference in key image regions.pdf)] [[Code](https://github.com/DoctorZheng/The-anti-counterfeiting-algorithm)]  
   
