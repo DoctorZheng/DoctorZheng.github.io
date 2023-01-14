@@ -23,6 +23,8 @@ Target Detection, Feature Matching, Image Anti-counterfeiting
 
 * 2021.09-2023.09  &nbsp; &nbsp;  The Science Research Project of Wuhan Institute of Technology (Research on Authenticity Identification of Anti counterfeiting Patterns Based on Digital Image Processing) (PI) 
 
+* 2020.06-2022.06  &nbsp; &nbsp;  The Science and Technology Research Project of Nanchang (China) Education Department (Research on image feature matching model based on visual reaction mechanism) (PI) 
+
 * 2019.08-2021.08  &nbsp; &nbsp;  The Science and Technology Research Project of Hubei (China) Education Department (Research on robot vision registration technology for complex scenes) (PI)  
   
 * 2018.10-2020.10  &nbsp; &nbsp;  The Science and Technology Entrepreneurship Projects for College Students of Hubei (China) Science and Technology Department (Intelligent vision guidance system for robot) (PI)   
@@ -34,7 +36,7 @@ Target Detection, Feature Matching, Image Anti-counterfeiting
 ## Publications
 1. **Zhaohui Zheng**, Bichao Xu*, Jianping Ju, et al. Circumferential Local Ternary Pattern: New and Efficient Feature Descriptors for Anti-Counterfeiting Pattern Identification, IEEE Transactions on Information Forensics and Security, 2022, 17: 970-981. (**SCI Q1**) [[PDF](/file/Circumferential Local Ternary Pattern New and Efficient Feature Descriptors for Anti-Counterfeiting Pattern Identification.pdf)] [[Code](https://github.com/DoctorZheng/CLTP)]  
 
-1. **Zhaohui Zheng**, Yuanyuan Li*,  Deng Chen, et al. Robot target location based on the difference in monocular vision projection, IEEE Access, 2022, : . (**SCI Q2**) 
+1. **Zhaohui Zheng**, Yuanyuan Li*,  Deng Chen, et al. Robot target location based on the difference in monocular vision projection, IEEE Access, 2023, 11: 1883-1889. (**SCI Q2**) [[PDF](/file/Robot target location based on the difference in monocular vision projection.pdf)]
 
 1. **Zhaohui Zheng**, Yunchen Luo*, Saoyi Li, et al. Rapid Detection of Tools of Railway Works in the Full Time Domain, Sustainability, 2022, 14: 13662. (**SCI Q2\SSCI**) [[PDF](/file/Rapid Detection of Tools of Railway Works in the Full Time Domain.pdf)]
 
