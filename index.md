@@ -34,11 +34,11 @@ Target Detection, Feature Matching, Image Anti-counterfeiting
 * 2018.10-2021.12  &nbsp; &nbsp;  Joint Fund of the Ministry of Education for Equipment Pre-research of China (Super resolution ground target detection technology based on visible light fusion image) (CO-PI)  
 
 ## Publications
-1. **Zhaohui Zheng**, Bichao Xu*, Jianping Ju, et al. Circumferential Local Ternary Pattern: New and Efficient Feature Descriptors for Anti-Counterfeiting Pattern Identification, IEEE Transactions on Information Forensics and Security, 2022, 17: 970-981. (**SCI Q1**) [[PDF](/file/Circumferential Local Ternary Pattern New and Efficient Feature Descriptors for Anti-Counterfeiting Pattern Identification.pdf)] [[Code](https://github.com/DoctorZheng/CLTP)]  
+1. **Zhaohui Zheng**, Bichao Xu*, Jianping Ju, et al. Circumferential Local Ternary Pattern: New and Efficient Feature Descriptors for Anti-Counterfeiting Pattern Identification, IEEE Transactions on Information Forensics and Security, 2022, 17: 970-981. (**SCI Q1 / CCF A**) [[PDF](/file/Circumferential Local Ternary Pattern New and Efficient Feature Descriptors for Anti-Counterfeiting Pattern Identification.pdf)] [[Code](https://github.com/DoctorZheng/CLTP)]  
 
 1. **Zhaohui Zheng**, Yuanyuan Li*,  Deng Chen, et al. Robot target location based on the difference in monocular vision projection, IEEE Access, 2023, 11: 1883-1889. (**SCI Q2**) [[PDF](/file/Robot target location based on the difference in monocular vision projection.pdf)]
 
-1. **Zhaohui Zheng**, Yunchen Luo*, Saoyi Li, et al. Rapid Detection of Tools of Railway Works in the Full Time Domain, Sustainability, 2022, 14: 13662. (**SCI Q2\SSCI**) [[PDF](/file/Rapid Detection of Tools of Railway Works in the Full Time Domain.pdf)]
+1. **Zhaohui Zheng**, Yunchen Luo*, Saoyi Li, et al. Rapid Detection of Tools of Railway Works in the Full Time Domain, Sustainability, 2022, 14: 13662. (**SCI Q2 / SSCI**) [[PDF](/file/Rapid Detection of Tools of Railway Works in the Full Time Domain.pdf)]
 
 1. **Zhaohui Zheng**, Hong Zheng*, Jianping Ju, et al. A system for identifying an anti-counterfeiting pattern based on the statistical difference in key image regions, Expert Systems With Applications, 2021, 183: 115410. (**SCI Q1**) [[PDF](/file/A system for identifying an anti-counterfeiting pattern based on the statistical difference in key image regions.pdf)] [[Code](https://github.com/DoctorZheng/The-anti-counterfeiting-algorithm)]  
   
