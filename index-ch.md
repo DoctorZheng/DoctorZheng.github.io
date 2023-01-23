@@ -40,7 +40,7 @@
 
 1. **Zhaohui Zheng**, Hong Zheng*, Jianping Ju, et al. A system for identifying an anti-counterfeiting pattern based on the statistical difference in key image regions, Expert Systems With Applications, 2021, 183: 115410. (**SCI 1区 Top**) [[PDF](/file/A system for identifying an anti-counterfeiting pattern based on the statistical difference in key image regions.pdf)] [[Code](https://github.com/DoctorZheng/The-anti-counterfeiting-algorithm)]  
   
-1. **Zhaohui Zheng**, Hong Zheng, Yong Ma*, Fan Fan, et al. Feedback Unilateral Grid-Based Clustering Feature Matching for Remote Sensing Image Registration, Remote Sensing, 2019, 11(12): 1418. (**SCI 2区 Top**) [[PDF](/file/Feedback Unilateral Grid-based Clustering Feature Matching for Remote Sensing Image Registration.pdf)] [[Code](https://github.com/DoctorZheng/F-UGC)]  
+1. **Zhaohui Zheng**, Hong Zheng, Yong Ma, Fan Fan*, et al. Feedback Unilateral Grid-Based Clustering Feature Matching for Remote Sensing Image Registration, Remote Sensing, 2019, 11(12): 1418. (**SCI 2区 Top**) [[PDF](/file/Feedback Unilateral Grid-based Clustering Feature Matching for Remote Sensing Image Registration.pdf)] [[Code](https://github.com/DoctorZheng/F-UGC)]  
   
 1. **Zhaohui Zheng**, Yong Ma, Hong Zheng*, et al. UGC: Real-time, Ultra-robust Feature Correspondence via Unilateral Grid-based Clustering, IEEE Access, 2018, 6(1): 1-1. (**SCI 2区**) [[PDF](/file/UGC：Real-time, Ultra-robust Feature Correspondence via Unilateral Grid-based Clustering.pdf)]  
   
