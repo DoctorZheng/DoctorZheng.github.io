@@ -11,7 +11,7 @@
 *****
 ## 研究方向  
 机器视觉和模式识别:  
-目标检测， 特征匹配， 防伪检测
+特征匹配，防伪检测，机器人视觉检测
 
 ## 教育背景 
 * 2016.9-2020.6  &nbsp; &nbsp; &nbsp;   武汉大学，电子信息学院，博士.  
@@ -32,19 +32,19 @@
 * 2018.10-2021.12  &nbsp; &nbsp;  装备预研教育部联合基金 (可见光融合图像超分辨率对地目标探测技术) (参与)  
 
 ## 学术论文
-1. **Zhaohui Zheng**, Bichao Xu, Jianping Ju, et al. Circumferential Local Ternary Pattern: New and Efficient Feature Descriptors for Anti-Counterfeiting Pattern Identification, IEEE Transactions on Information Forensics and Security, 2022, 17: 970-981. (**SCI 1区 Top / CCF A**) [[PDF](/file/Circumferential Local Ternary Pattern New and Efficient Feature Descriptors for Anti-Counterfeiting Pattern Identification.pdf))] [[Code](https://github.com/DoctorZheng/CLTP)]  
+1. **Zhaohui Zheng**, Bichao Xu*, Jianping Ju, et al. Circumferential Local Ternary Pattern: New and Efficient Feature Descriptors for Anti-Counterfeiting Pattern Identification, IEEE Transactions on Information Forensics and Security, 2022, 17: 970-981. (**SCI 1区 Top / CCF A**) [[PDF](/file/Circumferential Local Ternary Pattern New and Efficient Feature Descriptors for Anti-Counterfeiting Pattern Identification.pdf))] [[Code](https://github.com/DoctorZheng/CLTP)]  
 
 1. **Zhaohui Zheng**, Yuanyuan Li*,  Deng Chen, et al. Robot target location based on the difference in monocular vision projection, IEEE Access, 2023, 11: 1883-1889. (**SCI 3区**) [[PDF](/file/Robot target location based on the difference in monocular vision projection.pdf)]
 
-1. **Zhaohui Zheng**, Yunchen Luo, Saoyi Li, et al. Rapid Detection of Tools of Railway Works in the Full Time Domain, Sustainability, 2022, 14: 13662. (**SCI 3区\SSCI**) [[PDF](/file/Rapid Detection of Tools of Railway Works in the Full Time Domain.pdf)]
+1. **Zhaohui Zheng**, Yunchen Luo*, Saoyi Li, et al. Rapid Detection of Tools of Railway Works in the Full Time Domain, Sustainability, 2022, 14: 13662. (**SCI 3区\SSCI**) [[PDF](/file/Rapid Detection of Tools of Railway Works in the Full Time Domain.pdf)]
 
-1. **Zhaohui Zheng**, Hong Zheng, Jianping Ju, et al. A system for identifying an anti-counterfeiting pattern based on the statistical difference in key image regions, Expert Systems With Applications, 2021, 183: 115410. (**SCI 1区 Top**) [[PDF](/file/A system for identifying an anti-counterfeiting pattern based on the statistical difference in key image regions.pdf)] [[Code](https://github.com/DoctorZheng/The-anti-counterfeiting-algorithm)]  
+1. **Zhaohui Zheng**, Hong Zheng*, Jianping Ju, et al. A system for identifying an anti-counterfeiting pattern based on the statistical difference in key image regions, Expert Systems With Applications, 2021, 183: 115410. (**SCI 1区 Top**) [[PDF](/file/A system for identifying an anti-counterfeiting pattern based on the statistical difference in key image regions.pdf)] [[Code](https://github.com/DoctorZheng/The-anti-counterfeiting-algorithm)]  
   
-1. **Zhaohui Zheng**, Hong Zheng, Yong Ma, Fan Fan, et al. Feedback Unilateral Grid-Based Clustering Feature Matching for Remote Sensing Image Registration, Remote Sensing, 2019, 11(12): 1418. (**SCI 2区 Top**) [[PDF](/file/Feedback Unilateral Grid-based Clustering Feature Matching for Remote Sensing Image Registration.pdf)] [[Code](https://github.com/DoctorZheng/F-UGC)]  
+1. **Zhaohui Zheng**, Hong Zheng, Yong Ma*, Fan Fan, et al. Feedback Unilateral Grid-Based Clustering Feature Matching for Remote Sensing Image Registration, Remote Sensing, 2019, 11(12): 1418. (**SCI 2区 Top**) [[PDF](/file/Feedback Unilateral Grid-based Clustering Feature Matching for Remote Sensing Image Registration.pdf)] [[Code](https://github.com/DoctorZheng/F-UGC)]  
   
-1. **Zhaohui Zheng**, Yong Ma, Hong Zheng, et al. UGC: Real-time, Ultra-robust Feature Correspondence via Unilateral Grid-based Clustering, IEEE Access, 2018, 6(1): 1-1. (**SCI 2区**) [[PDF](/file/UGC：Real-time, Ultra-robust Feature Correspondence via Unilateral Grid-based Clustering.pdf)]  
+1. **Zhaohui Zheng**, Yong Ma, Hong Zheng*, et al. UGC: Real-time, Ultra-robust Feature Correspondence via Unilateral Grid-based Clustering, IEEE Access, 2018, 6(1): 1-1. (**SCI 2区**) [[PDF](/file/UGC：Real-time, Ultra-robust Feature Correspondence via Unilateral Grid-based Clustering.pdf)]  
   
-1. **Zhaohui Zheng**, Yong Ma, Hong Zheng, et al. Industrial part localization and grasping using a robotic arm guided by 2D monocular vision, Industrial Robot, 2018, 45(11): IR-06. (**SCI 4区**) [[PDF](/file/Industrial part localization and grasping using a robotic arm guided by 2D monocular vision.pdf)]  
+1. **Zhaohui Zheng**, Yong Ma, Hong Zheng*, et al. Industrial part localization and grasping using a robotic arm guided by 2D monocular vision, Industrial Robot, 2018, 45(11): IR-06. (**SCI 4区**) [[PDF](/file/Industrial part localization and grasping using a robotic arm guided by 2D monocular vision.pdf)]  
 
 1. Jing Chen, Mingxuan Zhang, Yan Yan, **Zhaohui Zheng***. RESEARCH ON MENTAL HEALTH ASSESSMENT OF COLLEGE STUDENTS UNDER BIG DATA, Psychiatria Danubina, 2022, 34(s4): 503-504. (**SCI 4区\SSCI**) [[PDF](/file/RESEARCH ON MENTAL HEALTH ASSESSMENT OF COLLEGE STUDENTS UNDER BIG DATA.pdf)]
 
@@ -59,6 +59,6 @@
 1. Xiaohang Xu, Hong Zheng, Zhongyuan Guo, Xiongbin Wu, **Zhaohui Zheng**. SDD-CNN: Small Data-Driven Convolution Neural Networks for Subtle Roller Defect Inspection , Applied Sciences-Basel, 2019, 9(7): 1364. (**SCI 3区**) [[PDF](/file/SDD-CNN Small Data-Driven Convolution Neural Networks for Subtle Roller Defect Inspection.pdf)]  
 
 ## 学术服务
-学术期刊会议审稿人: Expert Systems With Applications, IEEE Access, 等等.
+学术期刊会议审稿人: Expert Systems With Applications, IEEE Access 等等.
 
 
