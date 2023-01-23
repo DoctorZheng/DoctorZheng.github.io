@@ -11,7 +11,7 @@
 *****
 ## Research Interest  
 Computer Vision and Pattern Recognition:  
-Target Detection, Feature Matching, Image Anti-counterfeiting
+Robot vision inspection, Feature Matching, Image Anti-counterfeiting
 
 ## Education 
 * 2016.9-2020.6  &nbsp; &nbsp; &nbsp;   Ph.D in Electronic Information School, Wuhan University.  
