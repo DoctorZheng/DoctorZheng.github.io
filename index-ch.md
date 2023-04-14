@@ -48,7 +48,9 @@
 
 1. Jing Chen, Mingxuan Zhang, Yan Yan, **Zhaohui Zheng***. RESEARCH ON MENTAL HEALTH ASSESSMENT OF COLLEGE STUDENTS UNDER BIG DATA, Psychiatria Danubina, 2022, 34(s4): 503-504. (**SCI 4区\SSCI**) [[PDF](/file/RESEARCH ON MENTAL HEALTH ASSESSMENT OF COLLEGE STUDENTS UNDER BIG DATA.pdf)]
 
-1. Siyuan Cai, Wei Wei, Deng Chen, Jianping Ju, Yanduo Zhang, Wei Liu and **Zhaohui Zheng**. Security Risk Intelligent Assessment of Power Distribution Internet of Things via Entropy-Weight Method and Cloud Model, Sensors 2022, 22(13), 4663. (**SCI 2区**) [[PDF](/file/Security Risk Intelligent Assessment of Power Distribution Internet of Things via Entropy-Weight Method and Cloud Model.pdf)]
+1. Siyuan Cai, Wei Wei, Deng Chen, Jianping Ju, Yanduo Zhang, Wei Liu and **Zhaohui Zheng**. Security Risk Intelligent Assessment of Power Distribution Internet of Things via Entropy-Weight Method and Cloud Model, Sensors 2022, 22(13), 4663. (**SCI 3区**) [[PDF](/file/Security Risk Intelligent Assessment of Power Distribution Internet of Things via Entropy-Weight Method and Cloud Model.pdf)]
+
+1. Sikai Wang, Jin Yang, Deng Chen, Jin Huang, Yanduo Zhang, Wei Liu, **Zhaohui Zheng** and Yanan Li. LiteCortexNet: Towards Efficient Object Detection at Night, The Visual Computer, 2022, 38: 3073-3085. (**SCI 3区**) 
 
 1. Jianping Ju, Hong Zheng, Xiaohang Xu, Zhongyuan Guo, **Zhaohui Zheng**, Mingyu Lin. Classification of jujube defects in small data sets based on transfer learning, Neural Computing & Applications, 2021, 1(1): 1-14. (**SCI 2区**) [[PDF](/file/Classification of jujube defects in small data sets based on transfer learning.pdf)]  
   
