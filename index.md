@@ -52,6 +52,8 @@ Robot vision inspection, Feature Matching, Image Anti-counterfeiting
 
 1. Siyuan Cai, Wei Wei, Deng Chen, Jianping Ju, Yanduo Zhang, Wei Liu and **Zhaohui Zheng**. Security Risk Intelligent Assessment of Power Distribution Internet of Things via Entropy-Weight Method and Cloud Model, Sensors 2022, 22(13), 4663. (**SCI Q2**) [[PDF](/file/Security Risk Intelligent Assessment of Power Distribution Internet of Things via Entropy-Weight Method and Cloud Model.pdf)]
  
+1. Sikai Wang, Jin Yang, Deng Chen, Jin Huang, Yanduo Zhang, Wei Liu, **Zhaohui Zheng** and Yanan Li. LiteCortexNet: Towards Efficient Object Detection at Night, The Visual Computer, 2022, 38: 3073-3085. (**SCI Q2**) 
+ 
 1. Jianping Ju, Hong Zheng, Xiaohang Xu, Zhongyuan Guo, **Zhaohui Zheng**, Mingyu Lin. Classification of jujube defects in small data sets based on transfer learning, Neural Computing & Applications, 2021, 1(1): 1-14. (**SCI Q1**) [[PDF](/file/Classification of jujube defects in small data sets based on transfer learning.pdf)]  
   
 1. Zhongyuan Guo, Hong Zheng, Changhui You, Xiaohang Xu, Xiongbin Wu, **Zhaohui Zheng**, Jianping Ju. Digital forensics of scanned QR code images for printed source identification using bottleneck residual block. Sensors, 2020, 20:6305-6318. (**SCI Q2**) [[PDF](/file/Digital Forensics of Scanned QR Code Images for Printer Source Identificat on Using Bottleneck Residual Block.pdf)]  
