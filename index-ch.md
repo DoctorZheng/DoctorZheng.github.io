@@ -21,7 +21,9 @@
 ## 科研项目
 * 2022.08-2024.08  &nbsp; &nbsp;  湖北省教育厅科研计划项目 (基于空频域贝叶斯推断模型的防伪鉴别研究) (主持) 
 
-* 2021.09-2023.09  &nbsp; &nbsp;  武汉工程大学科学基金项目 (基于数字图像处理的防伪图案真伪鉴别研究) (主持)  
+* 2021.09-2023.09  &nbsp; &nbsp;  武汉工程大学科学基金项目 (基于数字图像处理的防伪图案真伪鉴别研究) (主持)
+
+* 2020.12-2023.12  &nbsp; &nbsp;  江西省教育厅科研计划项目 (基于视觉反应机理的图像特征匹配模型研究) (主持)
 
 * 2019.08-2021.08  &nbsp; &nbsp;  湖北省教育厅科研计划项目 (面向复杂场景下机器人视觉配准技术研究) (主持)  
   
@@ -49,6 +51,8 @@
 1. **Zhaohui Zheng**, Yong Ma, Hong Zheng*, et al. Industrial part localization and grasping using a robotic arm guided by 2D monocular vision, Industrial Robot, 2018, 45(11): IR-06. (**SCI 4区**) [[PDF](/file/Industrial part localization and grasping using a robotic arm guided by 2D monocular vision.pdf)]  
 
 1. Jing Chen, Mingxuan Zhang, Yan Yan, **Zhaohui Zheng***. RESEARCH ON MENTAL HEALTH ASSESSMENT OF COLLEGE STUDENTS UNDER BIG DATA, Psychiatria Danubina, 2022, 34(s4): 503-504. (**SCI 4区\SSCI**) [[PDF](/file/RESEARCH ON MENTAL HEALTH ASSESSMENT OF COLLEGE STUDENTS UNDER BIG DATA.pdf)]
+
+1. Zhongyuan Guo, Shiyuan Wang, **Zhaohui Zheng**, Ke Sun. Printer source identification of quick response codes using residual attention network and smartphones. Engineering Applications of Artificial Intelligence, 2024, 131: 107822. (**SCI 1区 Top**) 
 
 1. Siyuan Cai, Wei Wei, Deng Chen, Jianping Ju, Yanduo Zhang, Wei Liu and **Zhaohui Zheng**. Security Risk Intelligent Assessment of Power Distribution Internet of Things via Entropy-Weight Method and Cloud Model, Sensors 2022, 22(13), 4663. (**SCI 3区**) [[PDF](/file/Security Risk Intelligent Assessment of Power Distribution Internet of Things via Entropy-Weight Method and Cloud Model.pdf)]
 
