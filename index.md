@@ -23,7 +23,7 @@ Robot vision inspection, Feature Matching, Image Anti-counterfeiting
 
 * 2021.09-2023.09  &nbsp; &nbsp;  The Science Research Project of Wuhan Institute of Technology (Research on Authenticity Identification of Anti counterfeiting Patterns Based on Digital Image Processing) (PI) 
 
-* 2020.06-2022.06  &nbsp; &nbsp;  The Science and Technology Research Project of Nanchang (China) Education Department (Research on image feature matching model based on visual reaction mechanism) (PI) 
+* 2020.12-2023.12  &nbsp; &nbsp;  The Science and Technology Research Project of Jiangxi (China) Education Department (Research on image feature matching model based on visual reaction mechanism) (PI) 
 
 * 2019.08-2021.08  &nbsp; &nbsp;  The Science and Technology Research Project of Hubei (China) Education Department (Research on robot vision registration technology for complex scenes) (PI)  
   
