@@ -52,7 +52,7 @@ Robot vision inspection, Feature Matching, Image Anti-counterfeiting
 
 1. Jing Chen, Mingxuan Zhang, Yan Yan, **Zhaohui Zheng***. RESEARCH ON MENTAL HEALTH ASSESSMENT OF COLLEGE STUDENTS UNDER BIG DATA, Psychiatria Danubina, 2022, 34(s4): 503-504. (**SCI Q3\SSCI**) [[PDF](/file/RESEARCH ON MENTAL HEALTH ASSESSMENT OF COLLEGE STUDENTS UNDER BIG DATA.pdf)]
 
-1. Zhongyuan Guo, Shiyuan Wang, **Zhaohui Zheng**, Ke Sun. Printer source identification of quick response codes using residual attention network and smartphones. Engineering Applications of Artificial Intelligence, 2024, 131: 107822. (**SCI Q1**) 
+1. Zhongyuan Guo, Shiyuan Wang, **Zhaohui Zheng**, Ke Sun. Printer source identification of quick response codes using residual attention network and smartphones. Engineering Applications of Artificial Intelligence, 2024, 131: 107822. (**SCI Q1**) [[PDF](/file/Printer source identification of quick response c.pdf)]
 
 1. Siyuan Cai, Wei Wei, Deng Chen, Jianping Ju, Yanduo Zhang, Wei Liu and **Zhaohui Zheng**. Security Risk Intelligent Assessment of Power Distribution Internet of Things via Entropy-Weight Method and Cloud Model, Sensors 2022, 22(13), 4663. (**SCI Q2**) [[PDF](/file/Security Risk Intelligent Assessment of Power Distribution Internet of Things via Entropy-Weight Method and Cloud Model.pdf)]
  
