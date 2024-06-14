@@ -15,8 +15,6 @@ Robot vision inspection, Feature Matching, Image Anti-counterfeiting
 
 ## Education 
 * 2016.9-2020.6  &nbsp; &nbsp; &nbsp;   Ph.D in Electronic Information School, Wuhan University.  
-   
-* 2009.9-2011.12  &nbsp; &nbsp;   M.E. in School of Science, Wuhan University of Technology.  
 
 ## Research Project
 * 2022.08-2024.08  &nbsp; &nbsp;  The Science and Technology Research Project of Hubei (China) Education Department (Research on anti-counterfeiting identification based on spatial frequency domain bayesian inference model) (PI) 
