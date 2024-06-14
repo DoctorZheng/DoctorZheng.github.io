@@ -67,6 +67,6 @@
 1. Xiaohang Xu, Hong Zheng, Zhongyuan Guo, Xiongbin Wu, **Zhaohui Zheng**. SDD-CNN: Small Data-Driven Convolution Neural Networks for Subtle Roller Defect Inspection , Applied Sciences-Basel, 2019, 9(7): 1364. (**SCI 3区**) [[PDF](/file/SDD-CNN Small Data-Driven Convolution Neural Networks for Subtle Roller Defect Inspection.pdf)]  
 
 ## 学术服务
-学术期刊会议审稿人: Expert Systems With Applications, IEEE Access 等等.
+学术期刊会议审稿人: IEEE Transactions on Information Forensics and Security, Expert Systems With Applications, Postharvest Biology and Technology, IEEE Acces等等.
 
 
