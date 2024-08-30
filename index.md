@@ -16,22 +16,22 @@
 ## 教育背景 
 * 2016.9-2020.6  &nbsp; &nbsp; &nbsp;   武汉大学，电子信息学院，博士.  
 
-## 科研项目
-* 2025.01-2028.12  &nbsp; &nbsp;  国家自然科学基金项目 (基于多重防伪认证机制下的隐形二维码防伪标签识别的方法研究) (主持) 
+## Research Project
+* 2025.01-2028.12  &nbsp; &nbsp;  The National Natural Science Foundation of China (Research on the method of invisible QR code anti-counterfeiting label recognition based on multiple anti-counterfeiting authentication mechanism) (PI)
 
-* 2022.08-2024.08  &nbsp; &nbsp;  湖北省教育厅科研计划项目 (基于空频域贝叶斯推断模型的防伪鉴别研究) (主持) 
+* 2022.08-2024.08  &nbsp; &nbsp;  The Science and Technology Research Project of Hubei (China) Education Department (Research on anti-counterfeiting identification based on spatial frequency domain bayesian inference model) (PI) 
 
-* 2021.09-2023.09  &nbsp; &nbsp;  武汉工程大学科学基金项目 (基于数字图像处理的防伪图案真伪鉴别研究) (主持)
+* 2021.09-2023.09  &nbsp; &nbsp;  The Science Research Project of Wuhan Institute of Technology (Research on Authenticity Identification of Anti counterfeiting Patterns Based on Digital Image Processing) (PI) 
 
-* 2020.12-2023.12  &nbsp; &nbsp;  江西省教育厅科研计划项目 (基于视觉反应机理的图像特征匹配模型研究) (主持)
+* 2020.12-2023.12  &nbsp; &nbsp;  The Science and Technology Research Project of Jiangxi (China) Education Department (Research on image feature matching model based on visual reaction mechanism) (PI) 
 
-* 2019.08-2021.08  &nbsp; &nbsp;  湖北省教育厅科研计划项目 (面向复杂场景下机器人视觉配准技术研究) (主持)  
+* 2019.08-2021.08  &nbsp; &nbsp;  The Science and Technology Research Project of Hubei (China) Education Department (Research on robot vision registration technology for complex scenes) (PI)  
   
-* 2018.10-2020.10  &nbsp; &nbsp;  湖北省科技厅大学生科技创业计划项目 (机器人智能视觉引导系统) (主持)   
+* 2018.10-2020.10  &nbsp; &nbsp;  The Science and Technology Entrepreneurship Projects for College Students of Hubei (China) Science and Technology Department (Intelligent vision guidance system for robot) (PI)   
   
-* 2018.01-2021.12  &nbsp; &nbsp;  国家自然科学基金面上项目 (基于概率推理的图像特征匹配统一理论模型及其应用研究) (参与)  
+* 2018.01-2021.12  &nbsp; &nbsp;  National Natural Science Foundation of China (Research on unified theory model of image feature matching based on probabilistic reasoning and its application) (CO-PI)  
   
-* 2018.10-2021.12  &nbsp; &nbsp;  装备预研教育部联合基金 (可见光融合图像超分辨率对地目标探测技术) (参与)  
+* 2018.10-2021.12  &nbsp; &nbsp;  Joint Fund of the Ministry of Education for Equipment Pre-research of China (Super resolution ground target detection technology based on visible light fusion image) (CO-PI)  
 
 ## Publications
 1. **Zhaohui Zheng**, Bichao Xu*, Jianping Ju, et al. Circumferential Local Ternary Pattern: New and Efficient Feature Descriptors for Anti-Counterfeiting Pattern Identification, IEEE Transactions on Information Forensics and Security, 2022, 17: 970-981. (**SCI Q1 / CCF A**) [[PDF](/file/Circumferential Local Ternary Pattern New and Efficient Feature Descriptors for Anti-Counterfeiting Pattern Identification.pdf)] [[Code](https://github.com/DoctorZheng/CLTP)]  
