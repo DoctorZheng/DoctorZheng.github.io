@@ -9,12 +9,12 @@
 &nbsp; [GitHub](https://github.com/DoctorZheng) &nbsp; [英文主页](index.md)  
 
 *****
-## 研究方向  
-机器视觉和模式识别:  
-图像取证，二维码防伪，特征匹配，机器人视觉检测
+## Research Interest  
+Computer Vision and Pattern Recognition:  
+Robot vision inspection, Feature Matching, Image Anti-counterfeiting
 
-## 教育背景 
-* 2016.9-2020.6  &nbsp; &nbsp; &nbsp;   武汉大学，电子信息学院，博士.  
+## Education 
+* 2016.9-2020.6  &nbsp; &nbsp; &nbsp;   Ph.D in Electronic Information School, Wuhan University.  
 
 ## Research Project
 * 2025.01-2028.12  &nbsp; &nbsp;  The National Natural Science Foundation of China (Research on the method of invisible QR code anti-counterfeiting label recognition based on multiple anti-counterfeiting authentication mechanism) (PI)
