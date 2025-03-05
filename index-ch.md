@@ -2,7 +2,7 @@
 
 <a href="url"><img src="/file/1.jpg" align="left" height="120" ></a>  
 
-&nbsp; 武汉工程大学  
+&nbsp;   
 
 &nbsp; 邮箱: zhengzhaohui@whu.edu.cn;    zhengzhaohui@sina.cn  
 
