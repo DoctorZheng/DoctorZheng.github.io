@@ -36,9 +36,9 @@
 * 2018.10-2021.12  &nbsp; &nbsp;  装备预研教育部联合基金 (可见光融合图像超分辨率对地目标探测技术) (参与)  
 
 ## 学术论文
-1. **Zhaohui Zheng, Tinfeng Ji*, et al. Re-DETR：Research on Fast Detection Technology for Railway Engineering Targets in Dark Time Domain, IEEE Access, 2024, 12:175501-175510.(**SCI 3区**) [[PDF](/file/Re-DETR_Research_on_Fast_Detection_Technology_for_Railway_Engineering_Targets_in_the_Dark_Time_Domain.pdf))]  
+1. **Zhaohui Zheng**, Tinfeng Ji*, et al. Re-DETR：Research on Fast Detection Technology for Railway Engineering Targets in Dark Time Domain, IEEE Access, 2024, 12:175501-175510.(**SCI 3区**) [[PDF](/file/Re-DETR_Research_on_Fast_Detection_Technology_for_Railway_Engineering_Targets_in_the_Dark_Time_Domain.pdf)]  
 
-1. **Zhaohui Zheng**, Bichao Xu*, Jianping Ju, et al. Circumferential Local Ternary Pattern: New and Efficient Feature Descriptors for Anti-Counterfeiting Pattern Identification, IEEE Transactions on Information Forensics and Security, 2022, 17: 970-981. (**SCI 1区 Top / CCF A**) [[PDF](/file/Circumferential Local Ternary Pattern New and Efficient Feature Descriptors for Anti-Counterfeiting Pattern Identification.pdf))] [[Code](https://github.com/DoctorZheng/CLTP)]  
+1. **Zhaohui Zheng**, Bichao Xu*, Jianping Ju, et al. Circumferential Local Ternary Pattern: New and Efficient Feature Descriptors for Anti-Counterfeiting Pattern Identification, IEEE Transactions on Information Forensics and Security, 2022, 17: 970-981. (**SCI 1区 Top / CCF A**) [[PDF](/file/Circumferential Local Ternary Pattern New and Efficient Feature Descriptors for Anti-Counterfeiting Pattern Identification.pdf)] [[Code](https://github.com/DoctorZheng/CLTP)]  
 
 1. **Zhaohui Zheng**, Yuanyuan Li*,  Deng Chen, et al. Robot target location based on the difference in monocular vision projection, IEEE Access, 2023, 11: 1883-1889. (**SCI 3区**) [[PDF](/file/Robot target location based on the difference in monocular vision projection.pdf)]
 
