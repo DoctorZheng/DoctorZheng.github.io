@@ -36,7 +36,7 @@ Robot vision inspection, Feature Matching, Image Anti-counterfeiting
 * 2018.10-2021.12  &nbsp; &nbsp;  Joint Fund of the Ministry of Education for Equipment Pre-research of China (Super resolution ground target detection technology based on visible light fusion image) (CO-PI)  
 
 ## Publications
-1. **Zhaohui Zheng, Tinfeng Ji*, et al. Re-DETR：Research on Fast Detection Technology for Railway Engineering Targets in Dark Time Domain, IEEE Access, 2024, 12:175501-175510.(**SCI 3区**) [[PDF](/file/Re-DETR_Research_on_Fast_Detection_Technology_for_Railway_Engineering_Targets_in_the_Dark_Time_Domain.pdf))]
+1. **Zhaohui Zheng**, Tinfeng Ji*, et al. Re-DETR：Research on Fast Detection Technology for Railway Engineering Targets in Dark Time Domain, IEEE Access, 2024, 12:175501-175510.(**SCI 3区**) [[PDF](/file/Re-DETR_Research_on_Fast_Detection_Technology_for_Railway_Engineering_Targets_in_the_Dark_Time_Domain.pdf)]
 
 1. **Zhaohui Zheng**, Bichao Xu*, Jianping Ju, et al. Circumferential Local Ternary Pattern: New and Efficient Feature Descriptors for Anti-Counterfeiting Pattern Identification, IEEE Transactions on Information Forensics and Security, 2022, 17: 970-981. (**SCI Q1 / CCF A**) [[PDF](/file/Circumferential Local Ternary Pattern New and Efficient Feature Descriptors for Anti-Counterfeiting Pattern Identification.pdf)] [[Code](https://github.com/DoctorZheng/CLTP)]  
 
