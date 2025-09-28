@@ -48,7 +48,7 @@ Robot vision inspection, Feature Matching, Image Anti-counterfeiting
 
 1. **Zhaohui Zheng**, Yunchen Luo*, Saoyi Li, et al. Rapid Detection of Tools of Railway Works in the Full Time Domain, Sustainability, 2022, 14: 13662. (**SCI Q2\SSCI**) [[PDF](/file/Rapid Detection of Tools of Railway Works in the Full Time Domain.pdf)]
 
-1. **Zhaohui Zheng**, Hong Zheng*, Jianping Ju, et al. A system for identifying an anti-counterfeiting pattern based on the statistical difference in key image regions, Expert Systems With Applications, 2021, 183: 115410. (**SCI Q1**) [[PDF](/file/A system for identifying an anti-counterfeiting pattern based on the statistical difference in key image regions.pdf)] [[Code](https://github.com/DoctorZheng/The-anti-counterfeiting-algorithm)]  
+1. **Zhaohui Zheng**, Hong Zheng*, Jianping Ju, et al. A system for identifying an anti-counterfeiting pattern based on the statistical difference in key image regions, Expert Systems With Applications, 2021, 183: 115410. (**SCI Q1 / / CCF C**) [[PDF](/file/A system for identifying an anti-counterfeiting pattern based on the statistical difference in key image regions.pdf)] [[Code](https://github.com/DoctorZheng/The-anti-counterfeiting-algorithm)]  
   
 1. **Zhaohui Zheng**, Hong Zheng, Yong Ma, Fan Fan*, et al. Feedback Unilateral Grid-Based Clustering Feature Matching for Remote Sensing Image Registration, Remote Sensing, 2019, 11(12): 1418. (**SCI Q1**) [[PDF](/file/Feedback Unilateral Grid-based Clustering Feature Matching for Remote Sensing Image Registration.pdf)] [[Code](https://github.com/DoctorZheng/F-UGC)]  
   
