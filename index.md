@@ -21,17 +21,17 @@ Robot vision inspection, Feature Matching, Image Anti-counterfeiting
 
 * 2025.01-2028.12  &nbsp; &nbsp;  The National Natural Science Foundation of China (Research on the method of invisible QR code anti-counterfeiting label recognition based on multiple anti-counterfeiting authentication mechanism) (PI)
 
-* 2025.01-2028.12  &nbsp; &nbsp;  The Natural Science Foundation of Hubei (Research on Recognition Methods and Key Technologies for Integrating Explicit and Hidden Anti-counterfeiting Codes) (PI)
+* 2025.01-2028.12  &nbsp; &nbsp;  The Natural Science Foundation of Province (Research on Recognition Methods and Key Technologies for Integrating Explicit and Hidden Anti-counterfeiting Codes) (PI)
 
-* 2022.08-2024.08  &nbsp; &nbsp;  The Science and Technology Research Project of Hubei (China) Education Department (Research on anti-counterfeiting identification based on spatial frequency domain bayesian inference model) (PI) 
+* 2022.08-2024.08  &nbsp; &nbsp;  The Science and Technology Research Project of Province (China) Education Department (Research on anti-counterfeiting identification based on spatial frequency domain bayesian inference model) (PI) 
 
-* 2021.09-2023.09  &nbsp; &nbsp;  The Science Research Project of Wuhan Institute of Technology (Research on Authenticity Identification of Anti counterfeiting Patterns Based on Digital Image Processing) (PI) 
+* 2021.09-2023.09  &nbsp; &nbsp;  The Science Research Project of University (Research on Authenticity Identification of Anti counterfeiting Patterns Based on Digital Image Processing) (PI) 
 
-* 2020.12-2023.12  &nbsp; &nbsp;  The Science and Technology Research Project of Jiangxi (China) Education Department (Research on image feature matching model based on visual reaction mechanism) (PI) 
+* 2020.12-2023.12  &nbsp; &nbsp;  The Science and Technology Research Project of Province (China) Education Department (Research on image feature matching model based on visual reaction mechanism) (PI) 
 
-* 2019.08-2021.08  &nbsp; &nbsp;  The Science and Technology Research Project of Hubei (China) Education Department (Research on robot vision registration technology for complex scenes) (PI)  
+* 2019.08-2021.08  &nbsp; &nbsp;  The Science and Technology Research Project of Province (China) Education Department (Research on robot vision registration technology for complex scenes) (PI)  
   
-* 2018.10-2020.10  &nbsp; &nbsp;  The Science and Technology Entrepreneurship Projects for College Students of Hubei (China) Science and Technology Department (Intelligent vision guidance system for robot) (PI)   
+* 2018.10-2020.10  &nbsp; &nbsp;  The Science and Technology Entrepreneurship Projects for College Students of Province (China) Science and Technology Department (Intelligent vision guidance system for robot) (PI)   
   
 * 2018.01-2021.12  &nbsp; &nbsp;  National Natural Science Foundation of China (Research on unified theory model of image feature matching based on probabilistic reasoning and its application) (CO-PI)  
   
