@@ -17,7 +17,7 @@ Robot vision inspection, Feature Matching, Image Anti-counterfeiting
 * 2016.9-2020.6  &nbsp; &nbsp; &nbsp;   Ph.D in Electronic Information School, Wuhan University.  
 
 ## Research Project
-* 2025.10-2028.12  &nbsp; &nbsp;  The Humanities and Social Science Foundation of the Ministry of Education in China (Research on Multimodal Student Classroom Attention Quantification and Personalized Intervention Methods) (PI)
+* 2025.01-2028.12  &nbsp; &nbsp;  The Humanities and Social Science Foundation of the Ministry of Education in China (Research on Multimodal Student Classroom Attention Quantification and Personalized Intervention Methods) (PI)
 
 * 2025.01-2028.12  &nbsp; &nbsp;  The National Natural Science Foundation of China (Research on the method of invisible QR code anti-counterfeiting label recognition based on multiple anti-counterfeiting authentication mechanism) (PI)
 
