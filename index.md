@@ -80,6 +80,6 @@ Robot vision inspection, Feature Matching, Image Anti-counterfeiting
  
 
 ## Services
-Journal Reviewer: IEEE Transactions on Information Forensics and Security, Expert Systems With Applications, Postharvest Biology and Technology, IEEE Access, et al.
+Journal Reviewer: IEEE Transactions on Information Forensics and Security, Expert Systems With Applications, Postharvest Biology and Technology, et al.
 
 
