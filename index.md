@@ -38,6 +38,8 @@ Robot vision inspection, Feature Matching, Image Anti-counterfeiting
 * 2018.10-2021.12  &nbsp; &nbsp;  Joint Fund of the Ministry of Education for Equipment Pre-research of China (Super resolution ground target detection technology based on visible light fusion image) (CO-PI)  
 
 ## Publications
+1. **Zhaohui Zheng**, et.al., "Joint Texture Descriptor for the Petersen Graph Local Ternary Pattern based on the Hamming Distance (PLTP_HDPLTP): for Anti-counterfeiting Pattern Recognition," in IEEE Transactions on Dependable and Secure Computing, doi: 10.1109/TDSC.2026.3736873.(**SCI Q1 / CCF A**) [[PDF](/file/Joint_Texture_Descriptor_for_the_Petersen_Graph_Local_Ternary_Pattern_based_on_the_Hamming_Distance_PLTP_HDPLTP_for_Anti-counterfeiting_Pattern_Recognition.pdf)]
+
 1. **Zhaohui Zheng**, Keming Hu*, et al. Construction and application of evaluation models for online learning behaviour, Cogent Education, 2026, 13(1).(**SSCI 3区**) [[PDF](/file/Construction and application of evaluation models for online learning behaviour.pdf)]
 
 1. **Zhaohui Zheng**, Tinfeng Ji*, et al. Re-DETR：Research on Fast Detection Technology for Railway Engineering Targets in Dark Time Domain, IEEE Access, 2024, 12:175501-175510.(**SCI 3区**) [[PDF](/file/Re-DETR_Research_on_Fast_Detection_Technology_for_Railway_Engineering_Targets_in_the_Dark_Time_Domain.pdf)]
