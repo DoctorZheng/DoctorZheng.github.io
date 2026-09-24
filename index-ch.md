@@ -38,11 +38,13 @@
 * 2018.10-2021.12  &nbsp; &nbsp;  装备预研教育部联合基金 (可见光融合图像超分辨率对地目标探测技术) (参与)  
 
 ## 学术论文
-1. **Zhaohui Zheng**, Keming Hu*, et al. Construction and application of evaluation models for online learning behaviour, Cogent Education, 2026, 13(1).(**SSCI 3区**) [[PDF](/file/Construction and application of evaluation models for online learning behaviour.pdf)]
+1. **Zhaohui Zheng**, et.al., "Joint Texture Descriptor for the Petersen Graph Local Ternary Pattern based on the Hamming Distance (PLTP_HDPLTP): for Anti-counterfeiting Pattern Recognition," in IEEE Transactions on Dependable and Secure Computing, doi: 10.1109/TDSC.2026.3736873.(**SCI 1区 Top/ CCF A**) [[PDF](/file/Joint_Texture_Descriptor_for_the_Petersen_Graph_Local_Ternary_Pattern_based_on_the_Hamming_Distance_PLTP_HDPLTP_for_Anti-counterfeiting_Pattern_Recognition.pdf)]
+
+1. **Zhaohui Zheng**, Keming Hu*, et al. Construction and application of evaluation models for online learning behaviour, Cogent Education, 2026, 13(1).(**SSCI 3区**) [[PDF](/file/Construction%20and%20application%20of%20evaluation%20models%20for%20online%20learning%20behaviour.pdf)]
 
 1. **Zhaohui Zheng**, Tinfeng Ji*, et al. Re-DETR：Research on Fast Detection Technology for Railway Engineering Targets in Dark Time Domain, IEEE Access, 2024, 12:175501-175510.(**SCI 3区**) [[PDF](/file/Re-DETR_Research_on_Fast_Detection_Technology_for_Railway_Engineering_Targets_in_the_Dark_Time_Domain.pdf)]  
 
-1. **Zhaohui Zheng**, Bichao Xu*, Jianping Ju, et al. Circumferential Local Ternary Pattern: New and Efficient Feature Descriptors for Anti-Counterfeiting Pattern Identification, IEEE Transactions on Information Forensics and Security, 2022, 17: 970-981. (**SCI 1区 Top / CCF A**) [[PDF](/file/Circumferential Local Ternary Pattern New and Efficient Feature Descriptors for Anti-Counterfeiting Pattern Identification.pdf)] [[Code](https://github.com/DoctorZheng/CLTP)]  
+1. **Zhaohui Zheng**, Bichao Xu*, Jianping Ju, et al. Circumferential Local Ternary Pattern: New and Efficient Feature Descriptors for Anti-Counterfeiting Pattern Identification, IEEE Transactions on Information Forensics and Security, 2022, 17: 970-981. (**SCI 1区 Top / CCF A**) [[PDF](/file/Circumferential%20Local%20Ternary%20Pattern%20New%20and%20Efficient%20Feature%20Descriptors%20for%20Anti-Counterfeiting%20Pattern%20Identification.pdf)] [[Code](https://github.com/DoctorZheng/CLTP)]  
 
 1. **Zhaohui Zheng**, Yuanyuan Li*,  Deng Chen, et al. Robot target location based on the difference in monocular vision projection, IEEE Access, 2023, 11: 1883-1889. (**SCI 3区**) [[PDF](/file/Robot target location based on the difference in monocular vision projection.pdf)]
 
@@ -50,7 +52,7 @@
 
 1. **Zhaohui Zheng**, Yunchen Luo*, Saoyi Li, et al. Rapid Detection of Tools of Railway Works in the Full Time Domain, Sustainability, 2022, 14: 13662. (**SCI 3区\SSCI**) [[PDF](/file/Rapid Detection of Tools of Railway Works in the Full Time Domain.pdf)]
 
-1. **Zhaohui Zheng**, Hong Zheng*, Jianping Ju, et al. A system for identifying an anti-counterfeiting pattern based on the statistical difference in key image regions, Expert Systems With Applications, 2021, 183: 115410. (**SCI 1区 Top / CCF C**) [[PDF](/file/A system for identifying an anti-counterfeiting pattern based on the statistical difference in key image regions.pdf)] [[Code](https://github.com/DoctorZheng/The-anti-counterfeiting-algorithm)]  
+1. **Zhaohui Zheng**, Hong Zheng*, Jianping Ju, et al. A system for identifying an anti-counterfeiting pattern based on the statistical difference in key image regions, Expert Systems With Applications, 2021, 183: 115410. (**SCI 1区 Top / CCF C**) [[PDF][[PDF](/file/A%20system%20for%20identifying%20an%20anti-counterfeiting%20pattern%20based%20on%20the%20statistical%20difference%20in%20key%20image%20regions.pdf)] [[Code](https://github.com/DoctorZheng/The-anti-counterfeiting-algorithm)]  [[Code](https://github.com/DoctorZheng/The-anti-counterfeiting-algorithm)]  
   
 1. **Zhaohui Zheng**, Hong Zheng, Yong Ma, Fan Fan*, et al. Feedback Unilateral Grid-Based Clustering Feature Matching for Remote Sensing Image Registration, Remote Sensing, 2019, 11(12): 1418. (**SCI 2区 Top**) [[PDF](/file/Feedback Unilateral Grid-based Clustering Feature Matching for Remote Sensing Image Registration.pdf)] [[Code](https://github.com/DoctorZheng/F-UGC)]  
   
